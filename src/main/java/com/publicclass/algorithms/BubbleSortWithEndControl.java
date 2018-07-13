@@ -28,6 +28,7 @@ public class BubbleSortWithEndControl
                 {
                     if (!somethingWasSwapped)
                     {
+                        System.out.println("Pointless iteration, ending run.");
                         return;
                     }
                 }
