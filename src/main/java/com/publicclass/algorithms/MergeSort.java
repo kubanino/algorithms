@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 import static java.lang.System.arraycopy;
 
+// Kubanino @ https://public-class.com/
 public class MergeSort
 {
     public static int[] sort(int[] input)

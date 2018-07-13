@@ -2,6 +2,7 @@ package com.publicclass.algorithms;
 
 import java.util.Arrays;
 
+// Kubanino @ https://public-class.com/
 public class QuickSort
 {
     private static void swap(int[] array, int index1, int index2)
