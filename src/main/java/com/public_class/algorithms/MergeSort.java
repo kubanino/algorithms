@@ -1,4 +1,4 @@
-package com.publicclass.algorithms;
+package com.public_class.algorithms;
 
 import java.util.Arrays;
 
