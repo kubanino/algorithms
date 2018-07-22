@@ -10,9 +10,9 @@ public class InsertionSort
         int tempValueOfElement = array[elementToBeInserted];
         for (int i = elementToBeInserted; i > 0; i--)
         {
-            if (tempValueOfElement < array[i-1])
+            if (tempValueOfElement < array[i - 1])
             {
-                array[i] = array[i-1];
+                array[i] = array[i - 1];
             }
             else
             {
