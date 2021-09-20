@@ -2,7 +2,6 @@ package com.public_class.algorithms;
 
 import java.util.Arrays;
 
-// Kubanino @ https://public-class.com/
 public class CountingSort
 {
     private static int[] accumulateIndexes(int[] array)
