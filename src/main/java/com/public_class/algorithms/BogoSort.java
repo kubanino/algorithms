@@ -3,7 +3,6 @@ package com.public_class.algorithms;
 import java.util.Arrays;
 import java.util.Random;
 
-// Kubanino @ https://public-class.com/
 public class BogoSort
 {
     private static final Random random = new Random();
