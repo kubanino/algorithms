@@ -2,7 +2,6 @@ package com.public_class.algorithms;
 
 import java.util.Arrays;
 
-// Kubanino @ https://public-class.com/
 public class BubbleSort
 {
     private static void swap(int[] array, int index1, int index2)
