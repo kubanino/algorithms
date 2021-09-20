@@ -2,7 +2,6 @@ package com.public_class.algorithms;
 
 import java.util.Arrays;
 
-// Kubanino @ https://public-class.com/
 public class InsertionSort
 {
     private static void insert(int[] array, int elementToBeInserted)
