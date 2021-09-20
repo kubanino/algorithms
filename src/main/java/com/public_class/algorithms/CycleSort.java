@@ -2,7 +2,6 @@ package com.public_class.algorithms;
 
 import java.util.Arrays;
 
-// Kubanino @ https://public-class.com/
 public class CycleSort
 { // good algorithm for costly memory writes (max one write per element)
     private static final int ITEM_ALREADY_AT_CORRECT_POSITION = -1;
